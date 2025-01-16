@@ -33,10 +33,7 @@ To set up the environment and install dependencies, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-Here is the updated Usage section for your README file with more useful examples, including changing the model and adding another feature:
-
-
+   
 ## Usage
 
 To use the provided scripts for data processing, feature engineering, model management, and visualization, follow these steps:
